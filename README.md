@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaovictorsa/pagina-receita/main/assets/Banner-Rocketseat.png" alt="Página de Receita Banner" width="960">
+</p>
+
 # 🍳 Página de Receita  
 
 > Projeto desenvolvido como parte da **Faculdade Rocketseat**, com o objetivo de aplicar fundamentos de **HTML**, **CSS** na criação de uma página.
