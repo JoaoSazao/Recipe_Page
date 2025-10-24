@@ -1,3 +1,5 @@
+![Página de Receita Banner](assets/Banner-Rocketseat.png)
+
 # 🍳 Página de Receita  
 
 > Projeto desenvolvido como parte da **Faculdade Rocketseat**, com o objetivo de aplicar fundamentos de **HTML**, **CSS** na criação de uma página.
