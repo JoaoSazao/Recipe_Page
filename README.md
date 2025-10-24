@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaovictorsa/pagina-receita/main/assets/Banner-Rocketseat.png" alt="Página de Receita Banner" width="960">
+  <img src=./assets/Banner-Rocketseat.png" alt="Página de Receita Banner" width="960">
 </p>
 
 # 🍳 Página de Receita  
