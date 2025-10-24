@@ -1,4 +1,4 @@
-![Página de Receita Banner](assets/Banner-Rocketseat.png)
+![Página de Receita Banner](./assets/Banner-Rocketseat.png)
 
 # 🍳 Página de Receita  
 
